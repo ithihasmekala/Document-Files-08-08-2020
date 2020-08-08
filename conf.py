@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Source Code Management'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'Android Application Development'
+copyright = '2020, Ithihas'
+author = 'Ithihas'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
